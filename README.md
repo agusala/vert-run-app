@@ -24,7 +24,7 @@ Strava developer account
 Project Setup
 Clone the repository:
 Bash
-git clone https://github.com/tuusuario/StravaActivityTracker.git
+git clone https://github.com/agusala/vert-run-app.git
 cd StravaActivityTracker
 Usa el código con precaución.
 
@@ -78,7 +78,7 @@ Cuenta de desarrollador de Strava
 Configuración del proyecto
 Clonar el repositorio:
 Bash
-git clone https://github.com/tuusuario/StravaActivityTracker.git
+git clone https://github.com/agusala/vert-run-app.git
 cd StravaActivityTracker
 Usa el código con precaución.
 
